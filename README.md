@@ -41,7 +41,7 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 
 ### Developer & Support
 
-[Telegram Channel](https://Telegram.dog/Mo_Tech_YT)
+[Telegram Channel]https://t.me/groupmoviex
 
 [Follow On InstaGram](https://www.instagram.com/mrk_yt_)
 
